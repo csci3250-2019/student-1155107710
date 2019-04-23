@@ -24,3 +24,6 @@
 - [x] Project Milestone 2
 - [ ] Project Milestone 3
 - [ ] Individual Article
+
+## Screenshot
+![img](https://github.com/csci3250-2019/student-1155107710/blob/master/BO%20FANGYING%20.png?raw=true)

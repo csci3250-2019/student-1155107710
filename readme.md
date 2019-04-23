@@ -1,10 +1,10 @@
 # CSCI3250 Project Milestone 2
 
 ## Basic Information
-**Name**: BO Fangying
-**SID**: 1155107710
-**Phone Number**: 62116864
-**Email**: 1155107710@link.cuhk.edu.hk
+**Name**: BO Fangying  
+**SID**: 1155107710  
+**Phone Number**: 62116864  
+**Email**: 1155107710@link.cuhk.edu.hk  
 
 ## Programming Experience
 * C
